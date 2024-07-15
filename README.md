@@ -1,5 +1,4 @@
 # Kodluyoruz-HTML-Ilk-Odev
 
-- Egitim muthis gidiyor.
-- Biraz tufeye geliyorum kendi kendime ama olsun.
-- Umarim sinav aciklanan kadar bitirim.
+- Bu dosyada README.md ve index.html belgeleri bulunmaktadır.
+- index.html içerisinde deneme amaçlı yazılmış satırlar bulunmakta.
