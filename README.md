@@ -2,4 +2,4 @@
 
 - Egitim muthis gidiyor.
 - Biraz tufeye geliyorum kendi kendime ama olsun.
-- Umarim sinav aciklanan kadar bitirim.
+- Umarim sinav aciklanana kadar bitirim.
